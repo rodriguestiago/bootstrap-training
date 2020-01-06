@@ -1,0 +1,12 @@
+body{
+    
+}
+.container{
+    background-color: #CDA5F3;
+    border: 2px solid black;
+    border-radius: 5px;  
+    line-height: 30px;
+}
+.box{
+    border-radius: 5px;
+}

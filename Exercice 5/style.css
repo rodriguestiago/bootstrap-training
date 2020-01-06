@@ -1,0 +1,32 @@
+body{
+    
+}
+.container{ 
+    line-height: 60px;
+}
+.row{
+    height: 60px;
+    
+}
+.container [class*=col] {
+/*
+    border: 1px solid black;
+    background-color: #D8D8D8;
+*/
+/*    padding: 0;*/
+}
+
+div.col-md-3{
+    padding: 0;
+}
+div.col-md-{
+    padding: 0;
+}
+.box{
+    border: 1px solid black;
+    background-color: #D8D8D8;
+}
+
+div.col-md-9{
+    padding-right: 0;
+}

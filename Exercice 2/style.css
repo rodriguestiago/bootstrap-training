@@ -1,0 +1,20 @@
+body{
+    
+}
+.container{ 
+    line-height: 30px;
+}
+.box{
+    border-radius: 5px;
+}
+.container [class*=col] {
+    border: 2px solid black;
+    border-radius: 5px; 
+    background-color: #CDA5F3;
+}
+span{
+    font-weight: bold;
+}
+.col-lg-4{
+    height: 35px;
+}
